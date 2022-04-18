@@ -1,4 +1,5 @@
 source: ./docs
+includes_dir: ./_includes
 
 # https://powerentwickler.github.io/TeamEpic/
 repository: PowerEntwickler/TeamEpic

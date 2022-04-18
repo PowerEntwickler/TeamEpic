@@ -1,7 +1,7 @@
-source: ./source
-layouts_dir: ./source/_layouts
-data_dir: ./source/_data
-includes_dir: ./source/_includes
+source: ./docs
+layouts_dir: ./docs/_layouts
+data_dir: ./docs/_data
+includes_dir: ./docs/_includes
 
 repository: tomjoht/documentation-theme-jekyll
 

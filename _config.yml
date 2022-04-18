@@ -1,5 +1,6 @@
 source: ./docs
 includes_dir: _includes
+data_dir: _data
 
 # https://powerentwickler.github.io/TeamEpic/
 repository: PowerEntwickler/TeamEpic

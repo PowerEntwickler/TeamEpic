@@ -1,3 +1,5 @@
+source: ./source
+
 repository: tomjoht/documentation-theme-jekyll
 
 output: web

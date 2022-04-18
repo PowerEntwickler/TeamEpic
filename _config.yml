@@ -1,7 +1,5 @@
 source: ./docs
-layouts_dir: ./docs/_layouts
-data_dir: ./docs/_data
-includes_dir: ./docs/_includes
+
 
 repository: tomjoht/documentation-theme-jekyll
 
